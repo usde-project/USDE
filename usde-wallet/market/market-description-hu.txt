@@ -1,0 +1,26 @@
+Tartsd a zsebedben Bitcoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Bitcoin Tárca az első Bitcoin app és kétségkívül a legbiztonságosabb is!
+
+ELŐNYÖK:
+
+• Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
+• A usdejaid mennyiségét USDe és USDe formában is láthatod.
+• Átváltás a saját valutádra, oda-vissza.
+• usde küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt usde címek számára.
+• Offline állapotban is fizethetsz - Bluetooth segítségével.
+• Rendszerüzenet Bitcoin érkezésekor.
+• Widget a Bitcoin egyenlegről.
+>>>>>>> upstream/prod
+
+Bővebben a usde-ról:
+http://usd-e.com
+
+Ha hozzájárulnál a usde Wallet projekthez:
+github.com/USDE/USDeAndroid
+
+
+
+
+Licensz: GPLv3
+Csak saját felelősségre használható!
+http://www.gnu.org/licenses/gpl-3.0.en.html

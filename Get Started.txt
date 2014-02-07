@@ -1,0 +1,25 @@
+Directions
+-----------
+Copy the file usde.conf from your main usde directory (the folder you unzipped) to the root AppData/Application Support usde storage folder.
+
+For Windows:
+The file AppData folder is hidden by default so make sure to enable viewing hidden files. Example: Windows drive(C:) -> Users -> *YourWindowsUsername*->AppData->Roaming->usde
+
+For Mac:
+Your usde.conf file should be moved to one of the following directories:
+$HOME/Library/Application Support/usde/    
+OR
+/Users/username/Library/Application Support/usde/
+
+Press command+alt to show the library directory (if it is hidden) in the finder's Go menu.
+
+You can create the usde folder before the first run or the client will automatically create the directory on the first run and then you can close it and move the usde.conf file.
+
+Firewalls:
+----------
+Forward port 7999 in your router firewall and/or software firewalls for more connections or if you have connection issues.
+
+Technical Support
+-----------------
+If you have any issues, you can get support at the usde forum:
+• http://usde.co/forums

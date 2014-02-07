@@ -1,0 +1,20 @@
+Consiste en una cartera de usdes para tu dispositivo Android. Puedes enviar usdes entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+
+CARACTERÍSTICAS:
+
+• Visualización del saldo de la cartera en usde y en otras monedas.
+• Envío y recpción de usdes a través de NFC, códigos QR o URL usde.
+• Libreta de direcciones para guardar las direcciones usde utilizadas habitualmente.
+• Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
+• Notificaciones de sistema para la conectividad a la red usde y para la recepción de usdes.
+• Widget de aplicación para el saldo usde.
+
+Puedes descubrir más sobre usde en
+http://usd-e.com
+
+Si quieres contribuir a usde Wallet, el proyecto está localizado en
+github.com/USDE/USDeAndroid
+
+Licencia: GPLv3
+¡Úsalo bajo tu propia responsabilidad!
+http://www.gnu.org/licenses/gpl-3.0.en.html

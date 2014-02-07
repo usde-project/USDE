@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>USDe, 8 dígitos</item>
+		<item>USDe, 6 dígitos</item>
+		<item>USDe, 4 dígitos</item>
+		<item>mUSDe, 2 dígitos</item>
+	</string-array>
+
+</resources>
