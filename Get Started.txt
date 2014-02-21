@@ -21,5 +21,5 @@ Forward port 7999 in your router firewall and/or software firewalls for more con
 
 Technical Support
 -----------------
-If you have any issues, you can get support at the usde forum:
-• http://usde.co/forums
+If you have any issues, you can e-mail team@usd-e.com or get support at the usde forum:
+• http://usd-e.com/talk

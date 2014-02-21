@@ -1,19 +1,23 @@
-# USDE [USDE]
-http://www.USD-e.com
+# Unitary Status Dollar eCoin [USDE]
+http://usd-e.com
 
-![USDE](http://imgur.com/EXiLTgY)
+![USDE](http://i62.tinypic.com/sfgtfn.png)
 
 ### Specs:
-Total of 1.6Billion USDE
+Total of 1.6Billion USDe
 
 1 Minute Block Targets
 
-2 Hour dif
+120 block difficulty re-target
 
-120 Coin maturity
+5 confirmations per transaction
+
+120 confirmations per mined block for maturity
 
 Block reward halving every 130,000 blocks
 
 P2P: 54449
 
 RPC: 54448
+
+Kimoto Gravity Well (difficulty re-target every block starts at block 91,000)

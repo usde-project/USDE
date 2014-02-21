@@ -34,7 +34,7 @@ AddressBookPage::AddressBookPage(Mode mode, Tabs tab, QWidget *parent) :
 #endif
 
 #ifndef USE_QRCODE
-    ui->showQRCode->setVisible(true);
+    ui->showQRCode->setVisible(false);
 #endif
 
     switch(mode)
